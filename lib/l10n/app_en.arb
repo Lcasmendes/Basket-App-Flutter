@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "appTitle": "Basketball Score Counter",
+    "team1": "Team 1",
+    "team2": "Team 2",
+    "freeThrow": "Free Throw (+1)",
+    "twoPoints": "2 Points (+2)",
+    "threePoints": "3 Points (+3)",
+    "undoLastShot": "Undo Last Shot",
+    "score": "Score"
+}

@@ -1,0 +1,11 @@
+{
+    "@@locale": "pt",
+    "appTitle": "Contador de Pontos de Basquete",
+    "team1": "Time 1",
+    "team2": "Time 2",
+    "freeThrow": "Lance Livre (+1)",
+    "twoPoints": "2 Pontos (+2)",
+    "threePoints": "3 Pontos (+3)",
+    "undoLastShot": "Voltar Último Lance",
+    "score": "Placar"
+}
